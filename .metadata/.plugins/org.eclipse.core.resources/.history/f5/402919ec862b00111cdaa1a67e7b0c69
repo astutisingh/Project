@@ -1,0 +1,5 @@
+package com.roomfinder.auth.entity;
+
+public class User {
+
+}
